@@ -1,0 +1,15 @@
+lex_file="ada.l"
+yacc_file="ada.y"
+output="test"
+# substitute the name of the input file below
+input="./TESTS/final.ada"
+
+yacc -d -v $yacc_file
+lex $lex_file
+/usr/bin/gcc lex.yy.c y.tab.c -o $output -ll -ly
+#rm -f lex.yy.c y.tab.c y.tab.h
+./$output < $input #Execute the script
+
+echo ""
+echo "This is the output file:"
+cat AMI_Output.out
