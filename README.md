@@ -1,4 +1,4 @@
-### For this whole project I wrote approximately 3700 lines of C source code which is found in multiple files from the three directories listed below.
+#### For this whole project I wrote approximately 3700 lines of C source code which is found in multiple files from the three directories listed below.
 
 - The *AdaSubset_Grammar* directory contains the main part of my project in these yacc and lex files that I wrote:
     1) *ada.y*

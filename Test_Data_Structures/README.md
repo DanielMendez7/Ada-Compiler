@@ -1,4 +1,4 @@
-### I wrote approximately 125 lines of original C source code in the *testListOfStructs.c* and *testStackOfBinaryTrees.c* files combined.
+I wrote approximately 125 lines of original C source code in the *testListOfStructs.c* and *testStackOfBinaryTrees.c* files combined.
 
 # Test 1:  
 **Description:**  

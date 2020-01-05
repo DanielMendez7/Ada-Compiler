@@ -1,4 +1,4 @@
-### I wrote approximately 1,165 lines of original C source code in the following eight files combined
+I wrote approximately 1,165 lines of original C source code in the following eight files combined
 # Files and Descriptions
 **FileNames:** *stack.c*, *stack.h*, *binaryTree.c*, and *binaryTree.h*  
 **Description:**  
